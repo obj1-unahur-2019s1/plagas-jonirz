@@ -1,0 +1,10 @@
+import plagas.*
+import elementos.*
+
+test "plaga cucarachas" {
+	
+	var cucaracha1 = new Curachas(poblacion = 50, peso = 11)
+	
+	
+
+}
